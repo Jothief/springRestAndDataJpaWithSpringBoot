@@ -1,4 +1,4 @@
-package nl.blogspot.javasolutionsguide.springRestAndDataJpaWithSpringBoot.entity;
+package com.company.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,8 +1,8 @@
-package nl.blogspot.javasolutionsguide.springRestAndDataJpaWithSpringBoot.service;
+package com.company.service;
 
 import java.util.List;
 
-import nl.blogspot.javasolutionsguide.springRestAndDataJpaWithSpringBoot.entity.Employee;
+import com.company.entity.Employee;
 
 public interface EmployeeService {
     public List<Employee> retrieveEmployees();
